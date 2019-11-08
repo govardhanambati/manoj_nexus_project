@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://nexus.com:8081/repository/manoj1_release/</url>
+            <url>http://ansiserver:8081/repository/test1_release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://nexus.com:8081/repository/manoj1_snap/</url>
+            <url>http://ansiserver.com:8081/repository/test1_snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
